@@ -9,8 +9,8 @@ plugins {
 
 base {
     version = "${minecraft_version}-${mod_version}"
-    group = 'com.hollingsworth.an_addon' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-    archivesBaseName = 'an_addon'
+    group = 'com.iridiumposting.ars_ingressum' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+    archivesBaseName = 'ars_ingressum'
 }
 
 // Mojang ships Java 21 to end users in 1.21+
