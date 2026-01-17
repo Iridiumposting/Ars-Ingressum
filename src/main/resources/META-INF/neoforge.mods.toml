@@ -31,19 +31,19 @@ credits="Alexthw, BaileyHoll, Jarva, and a bunch of other awesome Starbuncles" #
 authors="Iridiumposting" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-A method for traveling to the Ars Monde dimension for the Ars Nouveau mod!
+An add-on for Ars Nouveau centered on Dimensional Travel!
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[mixins]]
 config="ars_ingressum.mixins.json"
-[[dependencies.an_addon]]
+[[dependencies.ars_ingressum]]
 modId = "minecraft"
 versionRange = "[1.21,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.an_addon]]
+[[dependencies.ars_ingressum]]
 modId = "ars_nouveau"
-versionRange = "[1.21.1-5.4,)"
+versionRange = "[1.21.1-5.11,)"
 ordering = "AFTER"
 side = "BOTH"
