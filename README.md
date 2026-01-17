@@ -1,15 +1,15 @@
-# Ars-Nouveau-Example-Addon
+# Ars Ingressum
 
-An example repository for making an addon for Ars Nouveau! See the wiki for more info.
+A Work-in-Progress add-on for the Ars Nouveau mod centered around Dimensional Travel!
 
-**Getting Started**
+**Ritual of Dimensional Travel**
+A custom Ritual intended to take you to otherwise inaccessible or restricted dimensions early! Just ignite your Ritual Brazier and throw in a Tuning Fork attuned to the desired dimension. They're not expended on use.
 
-* Fork this repo for a ready to build work space.
-* Join the Ars Nouveau discord to ask questions, get help, or get ideas.
+**Tuning Forks & Planar Attuning**
+You can craft a Vacant Tuning Fork using Iron Nuggets and Source Gems to serve as recipient for interdimensional teleport magic. Once you have crafted a Tuning Fork, you may attune it to specific dimensions via the Imbuement Chamber.
+* OVERWORLD - Requires a Grass Block, Dirt, and an Oak Log on pedestals around the Imbuement chamber.
+* THE NETHER - Requires Obsidian, Flint and Steel, and a Golden Ingot around the Imbuement chamber.
+* THE END - Requires an Eye of Ender, an Ender Pearl, and Blaze Powder around the Imbuement chamber.
+You can re-attune Tuning Forks to different dimensions even if you've already attuned them once.
 
-Some useful links for beginners:
-* https://mcforge.readthedocs.io/en/latest/
-* https://forge.gemwire.uk/wiki/
-* https://wiki.mcjty.eu/modding/index.php?title=Main_Page
-* https://github.com/baileyholl/Ars-Nouveau/tree/1.18.x/src/main/java/com/hollingsworth/arsnouveau/api (Full API documentation)
-* https://github.com/bernie-g/geckolib/wiki (Animation library used by Ars Nouveau, optional)
+Tattered Tome & JEI integration to be added soon.
