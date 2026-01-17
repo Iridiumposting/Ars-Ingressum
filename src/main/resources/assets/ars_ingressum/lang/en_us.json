@@ -1,0 +1,15 @@
+{
+	"ars_ingressum.ritual_desc.ritual_plane_shift": "Teleports all nearby entities to a given dimension. Before starting the ritual, you must first augment the ritual with an Attuned Tuning Fork.",
+
+	"item.ars_ingressum.vacant_tuning_fork": "Vacant Tuning Fork",
+	"item.ars_ingressum.attuned_tuning_fork": "Attuned Tuning Fork",
+	"item.ars_ingressum.ritual_plane_shift": "Ritual of Dimensional Travel",
+
+	"chat.ars_ingressum.attuning.attuning_started": "Attuning. Add source nearby to increase attuning speed.",
+
+	"creativetab.ars_ingressum.ars_ingressum": "Ars Ingressum",
+
+	"tooltip.ars_ingressum.tuning_fork.unattuned": "Not Attuned Anywhere..."
+}
+
+

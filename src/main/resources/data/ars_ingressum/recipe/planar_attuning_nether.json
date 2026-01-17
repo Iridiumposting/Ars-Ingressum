@@ -1,0 +1,16 @@
+{
+  "type": "ars_ingressum:planar_attuning",
+  "pedestal_items": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:flint_and_steel"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "dimension": "minecraft:the_nether",
+  "source": 2000
+}
