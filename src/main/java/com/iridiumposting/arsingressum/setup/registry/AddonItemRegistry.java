@@ -17,5 +17,6 @@ public class AddonItemRegistry {
     public static final DeferredItem<Item> ATTUNED_TUNING_FORK = ITEMS.register("attuned_tuning_fork",
             () -> new TuningFork(new Item.Properties()
                     .stacksTo(1)
+                    .durability(8)
             ));
 }
