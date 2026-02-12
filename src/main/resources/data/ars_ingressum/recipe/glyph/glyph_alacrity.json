@@ -1,0 +1,13 @@
+{
+  "type": "ars_nouveau:glyph",
+  "exp": 160,
+  "inputs": [
+    { "item": "ars_nouveau:abjuration_essence" },
+    { "item": "minecraft:nether_star" },
+    { "item": "minecraft:sugar" }
+  ],
+  "output": {
+    "count": 1,
+    "id": "ars_ingressum:glyph_alacrity"
+  }
+}

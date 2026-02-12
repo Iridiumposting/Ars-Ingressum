@@ -1,0 +1,16 @@
+{
+  "type": "ars_nouveau:glyph",
+  "exp": 27,
+  "inputs": [
+    { "item": "ars_nouveau:abjuration_essence" },
+    { "item": "minecraft:golden_carrot" },
+    { "item": "minecraft:golden_carrot" },
+    { "item": "minecraft:golden_carrot" },
+    { "item": "minecraft:cooked_porkchop" },
+    { "item": "minecraft:cooked_beef" }
+  ],
+  "output": {
+    "count": 1,
+    "id": "ars_ingressum:glyph_invigorate"
+  }
+}

@@ -11,6 +11,7 @@ public class AddonSetup {
         AddonRecipeRegistry.RECIPE_SERIALIZERS.register(modEventBus);
         TuningForkData.register(modEventBus);
         AddonCreativeTabRegistry.register(modEventBus);
+        AddonEffectRegistry.register(modEventBus);
     }
 
 }

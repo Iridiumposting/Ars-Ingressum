@@ -1,11 +1,9 @@
 package com.iridiumposting.arsingressum.client.jei;
 
-import com.hollingsworth.arsnouveau.api.registry.RitualRegistry;
 import com.hollingsworth.arsnouveau.client.jei.MultiInputCategory;
 import com.hollingsworth.arsnouveau.setup.registry.BlockRegistry;
 import com.iridiumposting.arsingressum.common.item.data.TuningForkData;
 import com.iridiumposting.arsingressum.common.recipe.AttuneForkRecipe;
-import com.iridiumposting.arsingressum.common.ritual.RitualPlaneShift;
 import com.iridiumposting.arsingressum.setup.registry.AddonItemRegistry;
 import mezz.jei.api.constants.VanillaTypes;
 import mezz.jei.api.gui.builder.IRecipeLayoutBuilder;
@@ -46,11 +44,6 @@ public class AttuneForkRecipeCategory implements IRecipeCategory<AttuneForkRecip
 
     public Component getTitle() {
         return Component.translatable("ars_ingressum.attuning.planar_attuning");
-    }
-
-    @Override
-    public @Nullable IDrawable getBackground() {
-        return background;
     }
 
     @Override
